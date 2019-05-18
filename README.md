@@ -4,7 +4,6 @@
 
 #Python3
 #Pip3
-#bs4
 #pandas
 #urllib.request
 #lxml
