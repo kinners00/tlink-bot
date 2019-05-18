@@ -11,4 +11,4 @@
 
 #Gotchas:
 
-# - Install Certificates.command on MacOS from the Python installation folder (Usually in Macintosh HD > Applications)
+# - If you get SSL errors > Install Certificates.command on MacOS from the Python installation folder (Usually in Macintosh HD > Applications)
